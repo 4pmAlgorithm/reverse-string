@@ -10,6 +10,11 @@ For this task, you'll need to write a method that reverses a string. Your method
 will receive one argument, a string, and be expected to output that string with
 its letters in reverse order.
 
+1. reverse a string
+2. if the argument is hi 
+3. I need to return ih 
+4. so the first letter of the word needs to be the last letter of the word
+
 ```txt
 Input: "hi"
 Output: "ih"
@@ -20,10 +25,16 @@ Output: "ybabtac"
 
 **Do not call any type of built-in reverse method!**
 
-Please solve the problem using iteration.
+Please solve the problem using iteration. for loop, while loop 
 
 Use the language of your choosing. We've included starter files for some
 languages where you can pseudocode, explain your solution and code.
+
+1. for loop
+2. index 
+3. return value
+
+for(let i=0; i<...)
 
 ## Before you start coding
 
